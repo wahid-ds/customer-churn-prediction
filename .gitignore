@@ -1,0 +1,9 @@
+# Source dataset is downloaded separately (see data/README.md)
+/data/*.csv
+/data/*.xls
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+telcocust_clean.csv
