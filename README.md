@@ -1,4 +1,4 @@
-# Customer churn prediction | Applied Machine Learning
+# Customer churn prediction | Applied Machine Learning project
 
 A group project that compares classical classifiers, a feedforward neural network, and an autoencoder for predicting customer churn in the IBM Telco sample data. This portfolio edition fixes a comparison-table error in the submitted notebook and highlights the detailed SHAP dot plots.
 
